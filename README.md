@@ -187,7 +187,7 @@ PROCESS_EVERY_N_FRAMES = 2
 ## File Structure
 
 ```
-TRIAL/
+Multi-Modal Tracking Application/
 ├── requirements.txt          # Dependencies
 ├── config.py               # Configuration file
 ├── tracking_app.py         # Basic tracking application
