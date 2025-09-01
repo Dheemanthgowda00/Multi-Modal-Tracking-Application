@@ -33,6 +33,10 @@ venv.bak/
 *.manifest
 *.spec
 
+# Executable files (too large for GitHub)
+*.exe
+MultiModalTracking.exe
+
 # IDE
 .vscode/
 .idea/
